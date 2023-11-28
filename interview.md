@@ -1,4 +1,4 @@
-This video is about Docker Interview Questions with Answers. In this video, Abhishek covers 12 questions that you might be asked in a Docker interview.
+
 
 The first question is what Docker is. Docker is an open source containerization platform that is used to build, run, manage, and distribute applications. Containers are lightweight, portable, and self-contained environments that package up an application and its dependencies.
 
