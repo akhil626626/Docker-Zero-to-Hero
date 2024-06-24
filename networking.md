@@ -95,15 +95,22 @@ Docker networking commands practice
 docker run -d --name login nginx:latest
 
 #To login  to the container is.
+```
 docker exec -it login /bin/bash.
+```
 
 then we can install the ping command.
+```
 docker inspect login
+```
 
 # to check the network in the container 
-docker network ls 
+```
+docker network ls
+```
 
 #to create a secure network.
-
+```
 docker run -d --name finance --network=secure-network nginx:latest
+```
 
